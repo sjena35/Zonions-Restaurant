@@ -1,0 +1,20 @@
+
+
+ .head{
+  height: 60px;
+
+background: #000000;
+}
+
+.zonions{
+  float: left;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.adminlogin{
+  float: right;
+  margin-right: 150px;
+  margin-top: 5px;
+}
+
